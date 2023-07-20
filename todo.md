@@ -1,0 +1,6 @@
+- [ ] Criar uma branch para cada configuração
+    - [ ] Rofi
+    - [ ] AwesomeWM
+        - [ ] Tema 1
+        - [ ] ...
+    - [ ] Ranger
